@@ -3,7 +3,7 @@
 ## 1. React Router v6
 ### Turn single-page to multi-page application
 
-[Documentation](https://reactrouter.com/en/main)
+[React Router](https://reactrouter.com/en/main)
 ### Get Started
 1. `npm install react-router-dom@6`
 
